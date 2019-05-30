@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sj.zhcw.com/download/ios/qxb/ZhongCaiWebApp5200.ipa</string>
+					<string>https://raw.githubusercontent.com/xiayuqingfeng/DPWebViewLocalCache/master/ZhongCaiWebApp5200.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
